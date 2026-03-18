@@ -1,0 +1,12 @@
+{
+  "name": "haccp-pariscaviar",
+  "version": "1.0.0",
+  "description": "Controle qualite HACCP produits de la mer - Paris Caviar",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
